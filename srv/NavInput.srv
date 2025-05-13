@@ -1,0 +1,7 @@
+string file_name
+string op_type
+string id_type
+---
+bool result
+bool success
+bool message
