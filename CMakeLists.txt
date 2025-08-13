@@ -18,6 +18,8 @@ set(msg_files
 )
 
 set(srv_files
+  "srv/GetPose.srv"
+  "srv/GetPoseStr.srv"
   "srv/NavInput.srv"
 )
 

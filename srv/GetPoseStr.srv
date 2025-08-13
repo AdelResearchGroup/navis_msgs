@@ -1,0 +1,7 @@
+string delimiter
+uint8 pos_precision
+uint8 quat_precision
+---
+geometry_msgs/PoseStamped pose
+bool success
+string message
